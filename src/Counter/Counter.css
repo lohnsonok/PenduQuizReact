@@ -1,0 +1,18 @@
+.count {
+  margin-left: 20%;
+  margin-top: 7%;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+}
+
+
+@media all and (max-device-width: 480px) {
+
+  .count {
+    width: 50%;
+    font-size: 0.9em;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+}

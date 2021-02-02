@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.header {
+    text-align: center;
+}
+
+.score {
+    text-align: end;
+}
+
+.quiz {
+    background-color:#0E5D7B;
+    padding: 5%;
+    background:linear-gradient(white, lightblue);
+}
+
+.footer {
+    margin: 2em;
+    text-align: end;
+}
